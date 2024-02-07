@@ -3038,7 +3038,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #1abc9c;
+  /* background-color: #1abc9c; */
+  background-color: #82b1ff;
   border-color: #1abc9c;
 }
 .btn-primary:hover {
@@ -3277,13 +3278,17 @@ textarea.form-control-lg {
 }
 
 .btn-outline-primary {
-  color: #1abc9c;
-  border-color: #1abc9c;
+  /* color: #1abc9c; */
+  /* border-color: #1abc9c; */
+  color:#82b1ff;
+  border-color: #82b1ff;
 }
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #1abc9c;
-  border-color: #1abc9c;
+  /* background-color: #1abc9c; */
+  /* border-color: #1abc9c; */
+  background-color: #012A85;
+  border-color: #82b1ff;
 }
 .btn-check:focus + .btn-outline-primary, .btn-outline-primary:focus {
   box-shadow: 0 0 0 0.25rem rgba(26, 188, 156, 0.5);
@@ -3478,6 +3483,7 @@ textarea.form-control-lg {
 
 .btn-link {
   font-weight: 400;
+  /* color: #1abc9c; */
   color: #1abc9c;
   text-decoration: underline;
 }
@@ -3950,7 +3956,8 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #1abc9c;
+  /* color: #1abc9c; */
+  color: #82b1ff;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
