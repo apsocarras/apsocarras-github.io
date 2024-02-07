@@ -1,0 +1,21 @@
+(Old Version, Before Tech Impact)
+
+I am a recent graduate of the data engineering track at Epicodus, a 27-week full-time software development bootcamp. Prior to a shift in career goals, I 
+was a data analyst working in public health and preparing for Ph.D. programs in biostatistics. But I eventually realized that building software (and 
+breaking it) was more exciting to me than academic research.
+
+Currently, I am a Data Engineering Intern at Pandata, where I'm working on deploying a multi-modal ML pipeline using AWS. I am also studying for the AWS 
+SAA Exam as I look for further employment opportunities in the field. Please see my resume and some of my projects to get a better idea of my skills and 
+experience.
+
+---
+
+(Current Version)
+
+I am Data Engineering Fellow at the Data Innovation Lab at Tech Impact, a non-profit data science consultancy group assisting other non-profits and 
+government partners in leveraging data for social impact. Prior to a shift in career Prior to a shift in career goals, I
+was a data analyst working in public health and preparing for Ph.D. programs in biostatistics. I eventually realized that building (and breaking) 
+software was more exciting to me than academic research.
+
+I am primarily seeking Data Engineering, Clouud Engineering, and SQL/Python Developer roles where I can continue to progress as a developer working with 
+data. I am also well-suited for roles in project managem
